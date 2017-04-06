@@ -1,0 +1,6 @@
+
+.chef/knife.rb
+
+.chef/trusted_certs/52_42_11_111.crt
+
+.chef/trusted_certs/ip-172-31-5-55_us-west-2_compute_internal.crt
